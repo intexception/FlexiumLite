@@ -1,0 +1,10 @@
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\bin\Debug\FlexiumLite.exe
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\bin\Debug\FlexiumLite.pdb
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\bin\Debug\Colorful.Console.dll
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.csprojAssemblyReference.cache
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.csproj.CoreCompileInputs.cache
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.csproj.CopyComplete
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.exe
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.pdb
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.Properties.Resources.resources
+C:\Users\erava\source\repos\FlexiumLite\FlexiumLite\obj\Debug\FlexiumLite.csproj.GenerateResource.cache
